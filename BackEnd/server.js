@@ -21,7 +21,7 @@ db.connect((err) => {
     console.log("Connected to MySQL database!");
 });
 
-const bcrypt = require('bcryptjs');
+// const bcrypt = require('bcryptjs');
 
 // Inside your register API route
 app.post("/register", (req, res) => {
