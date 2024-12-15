@@ -1,6 +1,6 @@
-<div style="position: relative; display: inline-block;">
+<div style="">
   <img src="./ScreenShots/main.png.jpg" width="100%" />
-  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 4rem; color: white; text-align: center;">
+  <h1 style="font-size: 3rem; color: white; text-align: left;">
     Ecommerce Website
   </h1>
 </div>
