@@ -46,6 +46,8 @@ This is a basic eCommerce website developed using React for the front-end and No
     <td style="padding:20px; width: 600px;">
       <img src="./ScreenShots/main.png" width="inherit" alt="Image 1" style="max-width: 100%;">
     </td>
+    <tr/>
+    <tr>
     <td style="padding:20px; width: 600px;">
       <img src="./ScreenShots/Home.png" width="inherit" alt="Image 1" style="max-width: 100%;">
     </td>
@@ -54,6 +56,8 @@ This is a basic eCommerce website developed using React for the front-end and No
     <td style="padding:20px; width: 600px;">
       <img src="./ScreenShots/products.png" width="inherit" alt="Image 1" style="max-width: 100%;">
     </td>
+    <tr/>
+    <tr>
     <td style="padding:20px; width: 600px;">
       <img src="./ScreenShots/about.png" width="inherit" alt="Image 1" style="max-width: 100%;">
     </td>
@@ -62,6 +66,8 @@ This is a basic eCommerce website developed using React for the front-end and No
     <td style="padding:20px; width: 600px;">
       <img src="./ScreenShots/contact.png" width="inherit" alt="Image 1" style="max-width: 100%;">
     </td>
+    <tr/>
+    <tr>
     <td style="padding:20px; width: 600px;">
       <img src="./ScreenShots/login.png" width="inherit" alt="Image 1" style="max-width: 100%;">
     </td>
@@ -70,6 +76,8 @@ This is a basic eCommerce website developed using React for the front-end and No
     <td style="padding:20px; width: 600px;">
       <img src="./ScreenShots/register.png" width="inherit" alt="Image 1" style="max-width: 100%;">
     </td>
+    <tr/>
+    <tr>
     <td style="padding:20px; width: 600px;">
       <img src="./ScreenShots/cart_home.png" width="inherit" alt="Image 1" style="max-width: 100%;">
     </td>
