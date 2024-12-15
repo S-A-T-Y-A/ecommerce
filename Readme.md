@@ -88,7 +88,23 @@ This is a basic eCommerce website developed using React for the front-end and No
     </td>
     <tr/>
   <!-- Add more rows as needed -->
+
 </table>
+
+### Responsive
+
+<table>
+  <tr>
+    <td style="padding:20px; width: 500px;">
+      <img src="./ScreenShots/mobile_home.png" width="inherit" alt="Image 1" style="max-width: 100%;">
+    </td>
+    <td style="padding:20px; width: 500px;">
+      <img src="./ScreenShots/mobile_cart.png" width="inherit" alt="Image 1" style="max-width: 100%;">
+    </td>
+    <tr/>
+
+</table>
+
 
 ### Contributers
 
