@@ -46,7 +46,7 @@ This is a basic eCommerce website developed using React for the front-end and No
       <img src="./ScreenShots/main.png" width="inherit" alt="Image 1" style="max-width: 100%;">
     </td>
     <td style="padding:20px; width: 600px;">
-      <img src="./ScreenShots/home.png" width="inherit" alt="Image 1" style="max-width: 100%;">
+      <img src="./ScreenShots/Home.png" width="inherit" alt="Image 1" style="max-width: 100%;">
     </td>
     <tr/>
     <tr>
@@ -54,7 +54,7 @@ This is a basic eCommerce website developed using React for the front-end and No
       <img src="./ScreenShots/products.png" width="inherit" alt="Image 1" style="max-width: 100%;">
     </td>
     <td style="padding:20px; width: 600px;">
-      <img src="./ScreenShots/About.png" width="inherit" alt="Image 1" style="max-width: 100%;">
+      <img src="./ScreenShots/about.png" width="inherit" alt="Image 1" style="max-width: 100%;">
     </td>
     <tr/>
     <tr>
